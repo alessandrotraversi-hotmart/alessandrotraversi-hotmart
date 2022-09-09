@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Metrics](https://metrics.lecoq.io/alessandrotraversi-hotmart?base.indepth=true)
+![Metrics](https://metrics.lecoq.io/alessandrotraversi-hotmart)
